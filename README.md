@@ -1,16 +1,14 @@
-### Hi there 👋
+![My card name](https://cardivo.vercel.app/api?name=ASWIN-SPARKY%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/rrNU84N.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=imxxaswinnn&github=A-S-W-I-N-S-P-A-R-K-Y&)
+</p>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
+</br>
+</details>
+<h3 align="left">Languages and Tools:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A-S-W-I-N-S-P-A-R-K-Y&show_icons=true&locale=en&layout=compact" alt="A-S-W-I-N-S-P-A-R-K-Y" /></p>
+<h2 align="left">Connect with me:</h2>
+<p align="center">
 
-<!--
-**A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/aswin_sparky.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
+<a href="https://wa.me/+917012984396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
+</br></br>
