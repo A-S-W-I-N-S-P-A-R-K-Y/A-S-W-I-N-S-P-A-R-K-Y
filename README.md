@@ -29,16 +29,11 @@
   
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
-  
-  
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
   
 
   
@@ -59,8 +54,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
   
   <!-- DevOps and Cloud -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
